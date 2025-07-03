@@ -1,0 +1,1 @@
+![v2_grouping](v2_grouping.png)
